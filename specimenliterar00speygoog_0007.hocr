@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./specimenliterar00speygoog_0007.png"; bbox 0 0 3325 5200; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 555 2115 2043 2178">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 555 2115 2043 2178">
+     <span class='ocr_line' id='line_1_1' title="bbox 555 2115 2043 2178; baseline -0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 555 2116 944 2177; x_wconf 90' lang='lat' dir='ltr'>SPECIMEN</span> <span class='ocrx_word' id='word_1_2' title='bbox 985 2115 1482 2178; x_wconf 88' lang='lat' dir='ltr'><strong>LITERARIUM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1523 2116 2043 2178; x_wconf 87' lang='lat' dir='ltr'><strong>INAUGURALE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1257 2456 1326 2494">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1257 2456 1326 2494">
+     <span class='ocr_line' id='line_1_2' title="bbox 1257 2456 1326 2494; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 1257 2456 1326 2494; x_wconf 78' lang='lat' dir='ltr'><strong>DE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 245 2752 2359 2865">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 245 2752 2359 2865">
+     <span class='ocr_line' id='line_1_3' title="bbox 245 2752 2359 2865; baseline 0.001 -26"><span class='ocrx_word' id='word_1_5' title='bbox 245 2752 677 2839; x_wconf 76' lang='lat' dir='ltr'>ceremonia</span> <span class='ocrx_word' id='word_1_6' title='bbox 731 2752 932 2863; x_wconf 84' lang='lat' dir='ltr'><strong>apud</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 985 2752 1235 2855; x_wconf 83' lang='lat' dir='ltr'><strong>Indos,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1289 2776 1484 2863; x_wconf 82' lang='lat' dir='ltr'><strong>quae</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1535 2756 1855 2840; x_wconf 79' lang='lat' dir='ltr'><strong>vocatur</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1898 2754 2359 2865; x_wconf 69' lang='lat' dir='ltr'><strong>jatakarma.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
